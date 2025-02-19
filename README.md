@@ -13,7 +13,7 @@
 
 <h3 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="20">
-  A Passionate Frontend Developer from Pakistan 
+  A Passionate MERN Stack Developer from Karachi, Pakistan 
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h3>
 
@@ -98,16 +98,16 @@
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/moosa-khan-ab762b299">
+  <a href="https://www.linkedin.com/in/huzaifa-ali-09aa38247">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/moosakhan311">
+  <a href="https://instagram.com/Aleekhan48">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:23-ai-13@students.duet.edu.pk">
+  <a href="mailto:huzaifalikhan48@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://wa.me/923314027135">
+  <a href="https://wa.me/923043923901">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
