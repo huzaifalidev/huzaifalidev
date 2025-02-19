@@ -1,13 +1,13 @@
  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=✨+Welcome+to+my+Digital+Garden!+✨;Hi+There!+👋;I'm+Moosa+Khan!;+A+Creative+web+Developer+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=✨+Welcome+to+my+Digital+Garden!+✨;Hi+There!+👋;I'm+Huzaifa+Ali;+A+Creative+web+Developer+💻" />
 </div>
 
 
 <div align="center">
   <!-- Dynamic Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=mooosakhan&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&base=2900" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=huzaifa-ali-khan&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&base=500" alt="Profile Views" />
 </div>
 
 
@@ -18,10 +18,10 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/aoaydin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
+  <a href="https://github.com/huzaifa-ali-khan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huzaifa-ali-khan&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
     <br/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mooosakhan&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifa-ali-khan&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
   </a>
 </p>
 
