@@ -95,8 +95,10 @@
   
 
 </div>
-
-
+---
+📌 *Contribution Graph*  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=huzaifa-ali-khan&theme=react-dark&hide_border=true)
+---
 <p align="center">
   <a href="https://www.linkedin.com/in/huzaifa-ali-09aa38247">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
