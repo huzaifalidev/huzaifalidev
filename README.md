@@ -6,7 +6,6 @@
 
 
 <div align="center">
-  <!-- Dynamic Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=huzaifa-ali-khan&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&base=500" alt="Profile Views" />
 </div>
 
@@ -25,29 +24,11 @@
   </a>
 </p>
 
-<!--
-<div align="center">
-
-  <picture>
-
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-      media="(prefers-color-scheme: dark)"
-    />
- 
-   
-  </picture>
-  <br>
- 
-
-</div>
--->
 
 
 <br>
 
 <div align="center">
-  <!-- Tech Stack Section with Animated Border -->
   <div style="border: 2px solid #7F00FF; border-radius: 10px; padding: 20px; background: linear-gradient(45deg, #000428, #004e92);">
     <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
@@ -77,14 +58,6 @@
 
 </div>
 
-
-<!--
-### ⚡ Building Amazing Things
-- 🎯 **Currently Crafting**: AI-Powered Exam Scheduler (revolutionizing how teachers plan)
-- 🚀 **Exploring**: Three.js & GSAP for mind-bending web experiences
-- 🌟 **See My Work**: [Portfolio](https://mooosakhan.github.io/Portfolio.me/) 
-- 🔥 **Tech Arsenal**: React, Node.js, Three.js, and a pinch of magic ✨
--->
 
 <br>
 
@@ -121,7 +94,6 @@
   </h1>
 </div>
 
-<!--#  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack-->
 
 <div align="center">
   
@@ -142,32 +114,10 @@
 #### 🔧 Development Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
 
+#### 📌 *Contribution Graph*  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Huzaifa-io&theme=react-dark&hide_border=true)
 
 </div>
-<!--<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=mooosakhan&show_icons=true" />
-</picture>-->
- <!--
-<div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=mooosakhan&theme=radical"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=mooosakhan&theme=default"
-      alt="GitHub Streak"
-    /></picture></div>-->
-    <!-- For light theme -->
-
 <div align="center">
   <img src="github-snake.svg" alt="Snake animation" width="100%"/>
 </div>
@@ -180,4 +130,4 @@
 </div>
 
 <!-- Custom Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/> sahi karo
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
