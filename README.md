@@ -115,7 +115,7 @@
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
 
 #### 📌 *Contribution Graph*  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Huzaifa-io&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Huzaifa-Ali-Khan&theme=react-dark&hide_border=true)
 
 </div>
 <div align="center">
