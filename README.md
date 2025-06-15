@@ -1,9 +1,9 @@
 # Hi there 👋 I'm Huzaifa Ali Khan
 
-🚀 Cloud Engineer | 🛠️ Blockchain Developer | 💻 React Native Learner
+🚀 Software Engineer
 
-- 🔭 Currently working on my FYP with Uzair Memon  
-- 🌱 Learning React Native, Web3, and DevOps  
+- 🔭 Currently working on my   
+- 🌱 React Native, React, and DevOps  
 - ⚡ Fun fact: I love solving cloud infra puzzles!
 
 ---
