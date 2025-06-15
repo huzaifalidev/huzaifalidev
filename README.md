@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Huzaifa Ali Khan
+#  I'm Huzaifa Ali Khan
 
 🚀 Software Engineer
 
