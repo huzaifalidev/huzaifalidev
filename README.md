@@ -54,7 +54,6 @@ I love solving cloud infrastructure puzzles and breaking things to make them str
 
 ---
 
-### 🛠️ Tech Logos (Optional Visual)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
