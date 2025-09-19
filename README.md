@@ -50,7 +50,7 @@ I love solving cloud infrastructure puzzles and breaking things to make them str
 ---
 
 ### 💻 GitHub Stats
-![Huzaifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifalikhan48&show_icons=true&theme=radical)
+![Huzaifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=huzaifalidev&show_icons=true&theme=radical)
 
 ---
 
